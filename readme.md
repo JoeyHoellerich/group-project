@@ -1,6 +1,6 @@
 # Hey! Let's learn about GitHub commands!
 
-Contributed to by: Joey Hoellerich
+Contributed to by: not Joey Hoellerich
 
 ## Follow this sequence in order to correctly fork and clone this repository:
 
